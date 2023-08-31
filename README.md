@@ -1,9 +1,12 @@
+### UPDATED TO 1.20.x MINECRAFT
+updated the fabric port of the plugin, to 1.20 so it works past 1.18!
+
 # WebConsole
 
 [![CurseForge](http://cf.way2muchnoise.eu/564872.svg)](https://www.curseforge.com/minecraft/mc-mods/webconsole)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/t2pellet/WebConsole)](https://github.com/t2pellet/WebConsole/releases/latest)
 
-WebConsole is a Fabric mod for Minecraft 1.18+ that allows you to view your server console and manage your server from anywhere. It creates a WebSocket server in the background used by the web interface to send commands, receive your console log and manage your server.
+WebConsole is a Fabric mod for Minecraft 1.20+ that allows you to view your server console and manage your server from anywhere. It creates a WebSocket server in the background used by the web interface to send commands, receive your console log and manage your server.
 
 Don't worry about privacy or security: all data is stored in your browser locally and your PC will connect directly to your minecraft server. No intermediary web servers, just you and your MC server.
 
